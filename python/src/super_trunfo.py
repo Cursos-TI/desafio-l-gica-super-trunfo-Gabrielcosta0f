@@ -1,0 +1,1 @@
+# Funções principais do jogo Super Trunfo em Python
